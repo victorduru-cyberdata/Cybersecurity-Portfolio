@@ -1,0 +1,19 @@
+# References
+
+## tcpdump and libpcap
+
+**Source:** tcpdump and libpcap
+
+**Website:** https://www.tcpdump.org/
+
+**Used for:** Research into tcpdump, packet capture, command-line operation, filtering, and related functionality.
+
+## Wireshark User's Guide — Version 4.7.3
+
+**Source:** Wireshark
+
+**Document:** Wireshark User's Guide, Version 4.7.3
+
+**Website:** https://www.wireshark.org/docs/wsug_html/
+
+**Used for:** Research into Wireshark, packet capture, protocol analysis, filtering, graphical analysis, and related functionality.
